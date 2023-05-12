@@ -12,7 +12,7 @@ I consolidated and renamed .class and #id elements to reflect the updates made t
 
 ## Contributing
 
-All requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please refer to the link and screenshots provided.
+All requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please refer to the link: https://jordanolguin.github.io/Module1ChallengeRepo/ and screenshots provided in the GitHub Repo.
 
 ## License
 
